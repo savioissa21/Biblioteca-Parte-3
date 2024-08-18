@@ -1,0 +1,3 @@
+Bruno;741;Aluno
+Lucas;456;Aluno
+adm;123;Funcionário

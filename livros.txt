@@ -1,0 +1,4 @@
+oi;oi;oi;oi;oi;oi;100;true;false
+au;au;au;au;au;au;20;true;false
+oi;vfdg;gfsdg;dafgd;fds;df;20;true;false
+fds;fds;fsd;fds;fsd;dfs;100;true;true
